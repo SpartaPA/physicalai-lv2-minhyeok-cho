@@ -1,0 +1,29 @@
+# RealSense D435 카메라 설정 — Source of Truth (인지 작성, 통합 관리)
+# 사용처: tracker.launch.py(width/height/fps → wrapper 프로파일), perception_node(토픽 이름), tools/(width/height/fps)
+# ROS 파라미터 파일이 아니라 plain YAML이다 (perception_node가 camera_config 경로로 직접 읽음).
+width: 640                                # 컬러·깊이 해상도 (가로)
+height: 480                               # 컬러·깊이 해상도 (세로)
+fps: 30                                   # 초당 프레임 (카메라 설정값 — 처리 FPS와 구분)
+color_profile: "640x480 @30fps, RGB8"     # wrapper: rgb_camera.color_profile:=640,480,30 (형식은 wrapper 기본 RGB8)
+depth_profile: "640x480 @30fps, Z16"      # wrapper: depth_module.depth_profile:=640,480,30, align_depth.enable:=true
+
+# 아래 Topic 값은 RealSense wrapper 실행 후 `ros2 topic list` / `ros2 topic type`으로 확인해 기록함
+color_topic: "/camera/camera/color/image_raw"                       # sensor_msgs/msg/Image, encoding rgb8
+aligned_depth_topic: "/camera/camera/aligned_depth_to_color/image_raw"  # sensor_msgs/msg/Image, encoding 16UC1 (1 = 1mm)
+camera_info_topic: "/camera/camera/color/camera_info"               # sensor_msgs/msg/CameraInfo
+
+# ── 확인 기록 (2026-10-06, 인지 담당, 노트북 Ubuntu 24.04 + ROS 2 Lyrical) ──────────────────────────────
+# 실행: ros2 launch realsense2_camera rs_launch.py align_depth.enable:=true \
+#         rgb_camera.color_profile:=640,480,30 depth_module.depth_profile:=640,480,30
+# 장치: Intel RealSense D435 (Product ID 0x0B07 — IMU 없는 D435, 발제문의 D435i 아님)
+#       serial 261322071425, firmware 5.15.1.55
+# 버전: RealSense ROS wrapper v4.57.7, LibRealSense v2.57.7 (ros-lyrical-realsense2-camera)
+# USB : 3.2 (5000 Mbps) — 처음에는 2.1로 연결돼 wrapper가 성능 저하 경고 → USB 3 포트로 다시 연결해 확인 (발제문 기준 충족)
+# frame_id: camera_color_optical_frame (컬러 영상·CameraInfo 동일), stamp: 영상마다 채워짐
+# 정렬 깊이: 640x480, 16UC1
+# CameraInfo: 640x480, plumb_bob, K = [607.571, 0, 327.340; 0, 607.530, 239.493; 0, 0, 1]
+# 발행 QoS (컬러·정렬 깊이): RELIABLE, KEEP_LAST(1)
+# 수신 실측 (6초, 다른 프로세스에서 구독, wrapper 시작 후 안정화된 뒤 측정):
+#   USB 2.1: reliable 구독 → 컬러 29.4 fps, 정렬 깊이 29.4 fps / best effort 구독 → 1.2 fps, 0 fps
+#   USB 3.2: reliable 구독 → 컬러 29.6 fps, 정렬 깊이 29.5 fps / best effort 구독 → 1.5 fps, 0.2 fps
+#   → USB 속도와 관계없이 best effort로는 영상이 거의 전달되지 않음 → 영상 구독은 reliable 사용

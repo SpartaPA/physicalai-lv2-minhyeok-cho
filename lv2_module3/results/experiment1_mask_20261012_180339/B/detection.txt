@@ -1,0 +1,2740 @@
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 240203369
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771204839251457
+  y: 0.1724137647433634
+  z: 0.156669921875
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 273558350
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771882667754881
+  y: 0.1718592385038548
+  z: 0.15654622395833334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 306913086
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3798714527239745
+  y: 0.16250796981340987
+  z: 0.15940592447916666
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 340267822
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774716494934238
+  y: 0.1698184136475554
+  z: 0.15732747395833332
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 373622803
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37837311324166006
+  y: 0.16936962842813466
+  z: 0.15754069010416666
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 406977539
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777939984725333
+  y: 0.17104127212868506
+  z: 0.1569921875
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 440332275
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37663432556275706
+  y: 0.17612799672451043
+  z: 0.15569661458333334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 473687256
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37623326771996607
+  y: 0.17643289254162772
+  z: 0.15565755208333334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 507041992
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3761672386952524
+  y: 0.17444892548014412
+  z: 0.15578125
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 540396729
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3768257908079393
+  y: 0.17136900332819968
+  z: 0.1567626953125
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 573751465
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37714801322094144
+  y: 0.17228530694688401
+  z: 0.15659342447916666
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 607106201
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37920877577795087
+  y: 0.1652382737940679
+  z: 0.15879557291666666
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 640460938
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37736249603075994
+  y: 0.16923719546149035
+  z: 0.1571875
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 673815674
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37722771281620116
+  y: 0.17133364992370684
+  z: 0.1568017578125
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 707173340
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771464482097852
+  y: 0.17260757951302827
+  z: 0.15628580729166666
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 740530762
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37822723559774085
+  y: 0.1696564199613801
+  z: 0.15724446614583334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 773888428
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3764230530850714
+  y: 0.17343728148494886
+  z: 0.1564697265625
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 807245850
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776775879868931
+  y: 0.17044396852855073
+  z: 0.15712727864583334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 840603516
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37848377555679147
+  y: 0.16701939558503132
+  z: 0.158046875
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 873960938
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37851038238074536
+  y: 0.16975500157557094
+  z: 0.15724934895833334
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 907318604
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37683997670758906
+  y: 0.17442135178198798
+  z: 0.15617513020833335
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 940676025
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3760157333730666
+  y: 0.17552363251706093
+  z: 0.15566080729166668
+---
+header:
+  stamp:
+    sec: 1791798135
+    nanosec: 974033691
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.378329389703463
+  y: 0.16600561062213803
+  z: 0.15829427083333333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 7391113
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37848450625478075
+  y: 0.16626270136094778
+  z: 0.1581689453125
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 40748535
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778412303406922
+  y: 0.17189083522376217
+  z: 0.15688802083333334
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 74106201
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37567973256195125
+  y: 0.17654639684565604
+  z: 0.155576171875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 107463623
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776308691468337
+  y: 0.17125284192995546
+  z: 0.15701822916666666
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 140821289
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3762727367987142
+  y: 0.17197346406451336
+  z: 0.15662109375
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 174178711
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3762733606671397
+  y: 0.17459487601255647
+  z: 0.15600911458333333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 207536377
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773118253745708
+  y: 0.1729667767530742
+  z: 0.15671875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 240893799
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37747045745527535
+  y: 0.17097748480339567
+  z: 0.156787109375
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 274251465
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779532666991291
+  y: 0.17118828983144876
+  z: 0.157099609375
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 307608887
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777403703454441
+  y: 0.17106625526759914
+  z: 0.15719563802083333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 340966309
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770602138616198
+  y: 0.17391627657076494
+  z: 0.15634602864583333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 374323975
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37768814763703284
+  y: 0.16944677905057023
+  z: 0.15686197916666667
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 407681396
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775146750686937
+  y: 0.17030612109873006
+  z: 0.15716796875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 441039063
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3784302261153719
+  y: 0.16700998027654065
+  z: 0.157890625
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 474396484
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37829230218477106
+  y: 0.16811121896703843
+  z: 0.1576123046875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 507754150
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37866721252759444
+  y: 0.16883647820401984
+  z: 0.1575341796875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 541111572
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780040323969322
+  y: 0.1707935991348878
+  z: 0.1575341796875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 574468994
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776780239832259
+  y: 0.16940954159095986
+  z: 0.157060546875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 607826660
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377141809253866
+  y: 0.1717911812634353
+  z: 0.15647786458333332
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 641184082
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3759148412015817
+  y: 0.17778412924834724
+  z: 0.15517740885416667
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 674541748
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37781272289355894
+  y: 0.16797384945288057
+  z: 0.15745279947916666
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 707897461
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3782498974298232
+  y: 0.16640567778143994
+  z: 0.15802083333333333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 741253418
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771860353106315
+  y: 0.1732502626089956
+  z: 0.15615071614583334
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 774609131
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777823052599186
+  y: 0.1713155443985715
+  z: 0.156904296875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 807965088
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37787192813627657
+  y: 0.16861106237867057
+  z: 0.15771647135416667
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 841320801
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3768557415687499
+  y: 0.17229176053978487
+  z: 0.15652669270833333
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 874676514
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37817630634086336
+  y: 0.1708465945807717
+  z: 0.1569970703125
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 908032227
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37679086804259787
+  y: 0.17116507834492037
+  z: 0.15701171875
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 941387939
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37703780954014154
+  y: 0.171598017580448
+  z: 0.15660481770833334
+---
+header:
+  stamp:
+    sec: 1791798136
+    nanosec: 974743652
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37795638178659985
+  y: 0.17148697127083778
+  z: 0.15710611979166667
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 8099365
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770049042503503
+  y: 0.17158344433488443
+  z: 0.1568115234375
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 41455078
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377159592352242
+  y: 0.16968104681539226
+  z: 0.15700520833333334
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 74810791
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37697511639776266
+  y: 0.17402303130674496
+  z: 0.15626139322916666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 108166504
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37777952016581473
+  y: 0.17243275175811637
+  z: 0.15666015625
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 141522217
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37882906493162655
+  y: 0.16815452551155494
+  z: 0.15778483072916666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 174877686
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773112462571612
+  y: 0.17278095089741588
+  z: 0.15673014322916667
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 208233398
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3792641848989421
+  y: 0.16634671567483986
+  z: 0.15815755208333335
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 241588867
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779054747176411
+  y: 0.1685522440123144
+  z: 0.15760579427083332
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 274944580
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37805673227320125
+  y: 0.17447023809523804
+  z: 0.15608723958333334
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 308300049
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3788206121361088
+  y: 0.16577140782334845
+  z: 0.15826171875
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 341655762
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3765099749789901
+  y: 0.17375232094032214
+  z: 0.15622721354166666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 375011230
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778080587647247
+  y: 0.16759406214966788
+  z: 0.15792805989583333
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 408366699
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37843295129358684
+  y: 0.16912329774622611
+  z: 0.15773763020833334
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 441722168
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773067828452967
+  y: 0.169473438714693
+  z: 0.15702311197916666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 475077637
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37926984507943684
+  y: 0.16537627517551837
+  z: 0.15851888020833332
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 508433105
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775042437830097
+  y: 0.1725496162822554
+  z: 0.15644694010416665
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 541788574
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37862380514926636
+  y: 0.16696330644561783
+  z: 0.15812662760416665
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 575144043
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770875292415875
+  y: 0.17205386681062532
+  z: 0.15677734375
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 608499512
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.376732131144981
+  y: 0.1730932600412269
+  z: 0.156337890625
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 641854980
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3793877843338465
+  y: 0.16456061513026607
+  z: 0.15861002604166666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 675210449
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37680596434647373
+  y: 0.17433278653923973
+  z: 0.1559423828125
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 708567383
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770561721032343
+  y: 0.17073419592387087
+  z: 0.15692545572916666
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 741924316
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37802009878824805
+  y: 0.16883112618487955
+  z: 0.15764485677083334
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 775281250
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3768023543283129
+  y: 0.17093794229377296
+  z: 0.15690755208333335
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 808638184
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37806306422713803
+  y: 0.1696715853490455
+  z: 0.15745442708333332
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 841995117
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3793270853031051
+  y: 0.16581759514282837
+  z: 0.15837239583333335
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 875352051
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3765685386473431
+  y: 0.1739824082762773
+  z: 0.156103515625
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 908708984
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3783241344113207
+  y: 0.16791091814657738
+  z: 0.1577294921875
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 942066162
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773884235372938
+  y: 0.17066976958620828
+  z: 0.157099609375
+---
+header:
+  stamp:
+    sec: 1791798137
+    nanosec: 975423096
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37870206014701846
+  y: 0.16720534773747364
+  z: 0.15794270833333332
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 8780029
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37751797475254534
+  y: 0.17000892987546454
+  z: 0.15725423177083334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 42136963
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3772683187221372
+  y: 0.17448853574154555
+  z: 0.1561376953125
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 75493896
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.378234711175363
+  y: 0.1672208817365835
+  z: 0.15818196614583332
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 108851074
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3762929444311345
+  y: 0.17365118592514672
+  z: 0.15625162760416667
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 142208008
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774582054194021
+  y: 0.17003699708794145
+  z: 0.15693196614583332
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 175564941
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775536013703734
+  y: 0.16954110430294497
+  z: 0.15725260416666667
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 208921875
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37706918087106456
+  y: 0.17159486852780906
+  z: 0.1566943359375
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 242279053
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37842628198515127
+  y: 0.16711613233424696
+  z: 0.1577685546875
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 275635986
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775022644927536
+  y: 0.17009401598803772
+  z: 0.1572265625
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 308992920
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3772660097669703
+  y: 0.1722031289837666
+  z: 0.15675618489583334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 342349854
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37777910433299083
+  y: 0.17167791643163569
+  z: 0.15677571614583333
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 375707031
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37813988996826897
+  y: 0.16508048569821387
+  z: 0.15849772135416668
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 409063965
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3762080343090145
+  y: 0.17507495194718364
+  z: 0.15580729166666665
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 442420898
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778758834914546
+  y: 0.17113213633562008
+  z: 0.15697428385416667
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 475778076
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37753937946152066
+  y: 0.17073770151453804
+  z: 0.1567919921875
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 509135010
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37876873032447894
+  y: 0.1668313151992758
+  z: 0.15820638020833333
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 542491943
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3768699788739485
+  y: 0.17382173512525748
+  z: 0.15626790364583334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 575849121
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37663774645878567
+  y: 0.17490416457950697
+  z: 0.15596354166666668
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 609206055
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37900676061735117
+  y: 0.16601224506553625
+  z: 0.15857259114583333
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 642563232
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774478751728729
+  y: 0.16962443051115178
+  z: 0.1573095703125
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 675920166
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37706749911864124
+  y: 0.17104195037201392
+  z: 0.15696940104166668
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 709275635
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37925454118357127
+  y: 0.16674122426491186
+  z: 0.1582080078125
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 742630859
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775032353174317
+  y: 0.1692013289357142
+  z: 0.15742024739583332
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 775986328
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3772633803646137
+  y: 0.17286649246391264
+  z: 0.15665364583333333
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 809341553
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37840746786151086
+  y: 0.16682486842286082
+  z: 0.15792317708333334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 842697021
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771394455708047
+  y: 0.1728316553453015
+  z: 0.15654296875
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 876052246
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37778231234255183
+  y: 0.17182352656202415
+  z: 0.15678385416666665
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 909407715
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777036778881035
+  y: 0.17099414340959385
+  z: 0.15703450520833334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 942762939
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3791412583345326
+  y: 0.16515628604778101
+  z: 0.15834309895833334
+---
+header:
+  stamp:
+    sec: 1791798138
+    nanosec: 976118408
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775178219618415
+  y: 0.1706040312917646
+  z: 0.15696614583333332
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 9473633
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37784834400935485
+  y: 0.16887057235433572
+  z: 0.15728190104166667
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 42828857
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773736299855225
+  y: 0.17103408450898883
+  z: 0.1570166015625
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 76184082
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3762545560966961
+  y: 0.17480780528672332
+  z: 0.15606770833333333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 109539551
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3786551343108244
+  y: 0.16488792875115857
+  z: 0.15840494791666668
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 142894775
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3759449211143277
+  y: 0.17470949844574263
+  z: 0.15574055989583332
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 176250000
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774393341681783
+  y: 0.16675201210238935
+  z: 0.15791666666666668
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 209605225
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37909566381375537
+  y: 0.16370979988670248
+  z: 0.15898111979166665
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 242960449
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776866781667373
+  y: 0.16814787461020847
+  z: 0.15756998697916666
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 276315674
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37846533023386303
+  y: 0.16604959494779478
+  z: 0.15858723958333334
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 309670898
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37742170988562435
+  y: 0.17108377478945916
+  z: 0.15710286458333333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 343026123
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377050520001659
+  y: 0.17086670111454438
+  z: 0.15696940104166668
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 376381348
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37690890812963324
+  y: 0.17225189779242622
+  z: 0.15654134114583335
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 409736572
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37886977842182396
+  y: 0.16765884659690827
+  z: 0.15808756510416666
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 443091797
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37705994904550766
+  y: 0.16902242192892084
+  z: 0.1574755859375
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 476447021
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770939626952606
+  y: 0.17098925944745744
+  z: 0.15695149739583333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 509802246
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776936092301534
+  y: 0.17068200826470986
+  z: 0.157197265625
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 543157471
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37807845714915417
+  y: 0.16836500901657867
+  z: 0.15754720052083335
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 576512451
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3769919708332468
+  y: 0.1715866231335101
+  z: 0.15669596354166668
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 609867676
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3787476120165728
+  y: 0.16702274915055806
+  z: 0.15818359375
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 643222900
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37803694482363975
+  y: 0.16856113489699684
+  z: 0.1573828125
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 676577881
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780560172384632
+  y: 0.1699101113446853
+  z: 0.1571728515625
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 709935791
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3783863464766545
+  y: 0.16810204963802253
+  z: 0.157724609375
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 743293701
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779196484279397
+  y: 0.1700102896617338
+  z: 0.1573876953125
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 776651611
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3765445861804769
+  y: 0.17216421040953805
+  z: 0.15649251302083333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 810009521
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3790931633447151
+  y: 0.16637641014389407
+  z: 0.15825520833333334
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 843367432
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37827848587593993
+  y: 0.1693607274861539
+  z: 0.157451171875
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 876725342
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777277060956054
+  y: 0.171150143191547
+  z: 0.15698567708333333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 910083008
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37695414911352304
+  y: 0.17164407816308228
+  z: 0.15685872395833333
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 943440918
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37708598669550064
+  y: 0.17210024698289245
+  z: 0.1565478515625
+---
+header:
+  stamp:
+    sec: 1791798139
+    nanosec: 976798828
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774464102061385
+  y: 0.16756265327953723
+  z: 0.1577294921875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 10156738
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776571665061298
+  y: 0.17037355905169277
+  z: 0.15714680989583332
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 43514648
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780825946526051
+  y: 0.16809777816761315
+  z: 0.15772623697916666
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 76872559
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3782336066911255
+  y: 0.1686712045949529
+  z: 0.15793294270833333
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 110230469
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779023982882235
+  y: 0.16642872457205585
+  z: 0.158154296875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 143588379
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37809040689667056
+  y: 0.16812588231243333
+  z: 0.157568359375
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 176946289
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377751389263859
+  y: 0.17178946357368333
+  z: 0.15674479166666666
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 210304443
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37779344258889996
+  y: 0.1727940022525016
+  z: 0.15671875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 243662354
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37868464747224806
+  y: 0.16705052640020146
+  z: 0.157861328125
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 277020264
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37751541559461443
+  y: 0.16950212286436278
+  z: 0.1575146484375
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 310378174
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37899990693277885
+  y: 0.1665813621953229
+  z: 0.158125
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 343736084
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.378104767599169
+  y: 0.17001356879418902
+  z: 0.15720377604166666
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 377093994
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771167530331496
+  y: 0.1681946537656015
+  z: 0.15767252604166668
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 410452148
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3785587940756788
+  y: 0.16779267740586004
+  z: 0.1577880859375
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 443810059
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3776731836598529
+  y: 0.1708060081425323
+  z: 0.15693522135416665
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 477167969
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777257187559429
+  y: 0.17070812371419183
+  z: 0.1569091796875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 510525879
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37818166302097317
+  y: 0.16767340260151187
+  z: 0.157744140625
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 543884033
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37775377133475824
+  y: 0.16831731756537374
+  z: 0.1576318359375
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 577241943
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37688852402380507
+  y: 0.17362174457013613
+  z: 0.15625325520833333
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 610599854
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37820931505600514
+  y: 0.1687830107652649
+  z: 0.15770833333333334
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 643958008
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3783674837985441
+  y: 0.1680112210721082
+  z: 0.15755533854166667
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 677315918
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777070888581143
+  y: 0.16921346295396777
+  z: 0.15748860677083334
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 710672607
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3771484476554944
+  y: 0.17270223317607383
+  z: 0.15651204427083334
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 744029541
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37754353201681845
+  y: 0.16825791517323765
+  z: 0.157421875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 777386230
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37831681007125634
+  y: 0.1668697659897833
+  z: 0.1581396484375
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 810742920
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37736678554310765
+  y: 0.167702130178467
+  z: 0.1573388671875
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 844099854
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37707845908672477
+  y: 0.17315759991662769
+  z: 0.1561767578125
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 877456543
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779463443762824
+  y: 0.17104290008957765
+  z: 0.15706705729166667
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 910813232
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780160627595485
+  y: 0.16861535162114194
+  z: 0.15768717447916666
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 944170166
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3785430083528566
+  y: 0.16866672515042372
+  z: 0.15770345052083334
+---
+header:
+  stamp:
+    sec: 1791798140
+    nanosec: 977526855
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775863001361671
+  y: 0.17058357895099713
+  z: 0.15738118489583333
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 10883545
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3791907020783398
+  y: 0.16560073598580824
+  z: 0.1582177734375
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 44240479
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778558039116297
+  y: 0.16870549676387134
+  z: 0.1573388671875
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 77597168
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3786111660112869
+  y: 0.16497337412772878
+  z: 0.15852701822916668
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 110953857
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37781691853956784
+  y: 0.16864651683458193
+  z: 0.15751139322916666
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 144310547
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3788172304269426
+  y: 0.1656631739469276
+  z: 0.15825846354166667
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 177667480
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3769194275493189
+  y: 0.17160367610256533
+  z: 0.15681315104166665
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 211024170
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37726943202854574
+  y: 0.16773767413799825
+  z: 0.15767252604166668
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 244380859
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37882525878640233
+  y: 0.16661758205610558
+  z: 0.1583349609375
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 277737549
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37760833333333343
+  y: 0.16784916129032248
+  z: 0.15767415364583334
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 311094482
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780569451349187
+  y: 0.17041477649349565
+  z: 0.1571484375
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 344451172
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3760067113362894
+  y: 0.1754482502800201
+  z: 0.15564453125
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 377807861
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770825995828845
+  y: 0.16983649738036705
+  z: 0.15712239583333334
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 411164551
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37699314265558703
+  y: 0.17070101909198102
+  z: 0.1568896484375
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 444521240
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37707075533021317
+  y: 0.17279974865661293
+  z: 0.156494140625
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 477878174
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37781479336896123
+  y: 0.16740235019808528
+  z: 0.15776041666666665
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 511234863
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3781434899826098
+  y: 0.1661949237905444
+  z: 0.15817220052083333
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 544591553
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3766760994912478
+  y: 0.1728621244511075
+  z: 0.15633463541666667
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 577948242
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.378926087753187
+  y: 0.16551423965732562
+  z: 0.158408203125
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 611304932
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3789182125273429
+  y: 0.16569267872612273
+  z: 0.15823893229166666
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 644661621
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3793832165049042
+  y: 0.1661098843412816
+  z: 0.1584716796875
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 678018311
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3784216291429888
+  y: 0.16819760866052674
+  z: 0.15781412760416666
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 711376465
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3788024134996387
+  y: 0.165069724845002
+  z: 0.15841634114583333
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 744734375
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770336504571559
+  y: 0.17062707182956796
+  z: 0.15700846354166667
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 778092285
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3783437937909574
+  y: 0.16688230135505813
+  z: 0.15796223958333333
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 811450439
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37691401603040997
+  y: 0.17277415631094778
+  z: 0.15642740885416667
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 844808350
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3764355842786921
+  y: 0.1743442062638934
+  z: 0.15595540364583332
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 878166260
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37775852837099577
+  y: 0.1699269945230803
+  z: 0.1573046875
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 911524414
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3775491057239198
+  y: 0.17194768044442602
+  z: 0.15703776041666667
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 944882324
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37794112632258703
+  y: 0.16980104794003356
+  z: 0.157109375
+---
+header:
+  stamp:
+    sec: 1791798141
+    nanosec: 978240479
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37812105421125625
+  y: 0.17005853566820525
+  z: 0.15726236979166666
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 11598389
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3773180007361098
+  y: 0.17089156549476597
+  z: 0.1569873046875
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 44956543
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3781185272780535
+  y: 0.1696436018059001
+  z: 0.157421875
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 78314453
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37737268638375143
+  y: 0.1709130571606752
+  z: 0.15717122395833333
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 111672607
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3786469832418565
+  y: 0.16860572051190345
+  z: 0.15776041666666665
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 145030762
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774517644976342
+  y: 0.17089806467953797
+  z: 0.157080078125
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 178388672
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3789885041010398
+  y: 0.1683463182388465
+  z: 0.15769205729166666
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 211746826
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777706920495114
+  y: 0.1686944915390517
+  z: 0.15744140625
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 245104980
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.376225963375575
+  y: 0.17398555935359258
+  z: 0.15617838541666668
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 278463135
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37716331006737447
+  y: 0.17280913662057315
+  z: 0.15670247395833334
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 311821289
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3769736676492852
+  y: 0.17336794488077795
+  z: 0.15625325520833333
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 345179199
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37864012962102844
+  y: 0.16785715309674126
+  z: 0.1576904296875
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 378537354
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777600854052232
+  y: 0.16923940651716027
+  z: 0.15763671875
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 411895508
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37857942316801907
+  y: 0.16729903818428962
+  z: 0.15805338541666666
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 445253662
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37752578810476667
+  y: 0.16816187964720228
+  z: 0.15779947916666667
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 478611816
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37731148531636965
+  y: 0.17355131751254002
+  z: 0.156328125
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 511969971
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37726228927628436
+  y: 0.16908702741717624
+  z: 0.15759928385416666
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 545328125
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3777753281874646
+  y: 0.17108800426977996
+  z: 0.15688151041666668
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 578686279
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3781938579918718
+  y: 0.16915696797424076
+  z: 0.15765462239583333
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 612044434
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37659288484134273
+  y: 0.1738013214490979
+  z: 0.15606770833333333
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 645402832
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37920490210698815
+  y: 0.1660719693333699
+  z: 0.15825520833333334
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 678760986
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37750903906850225
+  y: 0.1722062594738264
+  z: 0.156767578125
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 712118164
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377710002435637
+  y: 0.17074825877865768
+  z: 0.15703776041666667
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 745475586
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377343229279984
+  y: 0.17058427987461566
+  z: 0.15709798177083334
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 778833008
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3790948010348651
+  y: 0.1648158699848056
+  z: 0.15853515625
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 812190186
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3781817344380623
+  y: 0.16892272867106517
+  z: 0.15754557291666665
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 845547607
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778773017027837
+  y: 0.17258503813796627
+  z: 0.15659993489583332
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 878905029
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778486955584304
+  y: 0.17037914330889758
+  z: 0.15726725260416666
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 912262207
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37761405056077246
+  y: 0.16899618805590844
+  z: 0.1575537109375
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 945619629
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778391852988909
+  y: 0.16904996330407987
+  z: 0.1574560546875
+---
+header:
+  stamp:
+    sec: 1791798142
+    nanosec: 978977051
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37662865801475726
+  y: 0.17457268079313218
+  z: 0.1559521484375
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 12334473
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3778489443829695
+  y: 0.17027441389081352
+  z: 0.15738444010416666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 45691650
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37799599896747543
+  y: 0.16906011587219633
+  z: 0.15763346354166666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 79049072
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37683638891189997
+  y: 0.1699318758140154
+  z: 0.15718098958333335
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 112406494
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37974609281733296
+  y: 0.1632787362398723
+  z: 0.15905924479166667
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 145763916
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3785662258692553
+  y: 0.16673516279112283
+  z: 0.15828125
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 179121094
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3783470378349036
+  y: 0.1674662462406746
+  z: 0.15790690104166666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 212478516
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37762436292526147
+  y: 0.16819250583304093
+  z: 0.15765299479166667
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 245835938
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780341505490467
+  y: 0.16811553508437502
+  z: 0.1579541015625
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 279193359
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3786613941649556
+  y: 0.1656946725986766
+  z: 0.15852864583333334
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 312550781
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3768164126515897
+  y: 0.1702388057985014
+  z: 0.1572509765625
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 345907959
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37775167926981074
+  y: 0.16930515182966843
+  z: 0.1573388671875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 379265381
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3785589349605198
+  y: 0.1664344521668402
+  z: 0.15830729166666666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 412622803
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3784056685851961
+  y: 0.16736792520824106
+  z: 0.15807779947916667
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 445980225
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37842320928854506
+  y: 0.166238655345132
+  z: 0.1583935546875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 479337646
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37657742326598254
+  y: 0.1721859437139737
+  z: 0.15683756510416666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 512695068
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779620098165495
+  y: 0.1683994610858657
+  z: 0.1579541015625
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 546052490
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37877687011549793
+  y: 0.1657815460466582
+  z: 0.15834798177083334
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 579409912
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3770145722822571
+  y: 0.1712822968245566
+  z: 0.1567919921875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 612767334
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3774091169083622
+  y: 0.1693095766458517
+  z: 0.1576904296875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 646124512
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.377864873820836
+  y: 0.1691387798664188
+  z: 0.15758463541666667
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 679481934
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37848896269769916
+  y: 0.16961993773763215
+  z: 0.1574853515625
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 712839355
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3787796178886115
+  y: 0.16880868120756887
+  z: 0.15775065104166666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 746196533
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37877734618760595
+  y: 0.16610325648428154
+  z: 0.158232421875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 779553955
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3785252903263368
+  y: 0.165215177677549
+  z: 0.15841959635416666
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 812911133
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3779453785063979
+  y: 0.1705351177395298
+  z: 0.1572607421875
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 846268555
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37778736411873143
+  y: 0.16919463251043682
+  z: 0.15746256510416667
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 879625977
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37748582271063025
+  y: 0.17163589914684158
+  z: 0.15692220052083333
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 912983154
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37877769068404443
+  y: 0.16415981870841706
+  z: 0.15884765625
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 946340576
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37961779304590654
+  y: 0.16200178506561305
+  z: 0.15930989583333333
+---
+header:
+  stamp:
+    sec: 1791798143
+    nanosec: 979697998
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3793724899598394
+  y: 0.1627987089601343
+  z: 0.15940755208333332
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 13055420
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3780684549234744
+  y: 0.1669491990626855
+  z: 0.15813313802083334
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 46412598
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37796172996957056
+  y: 0.16802428848775244
+  z: 0.15761067708333334
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 79770020
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37876657209127174
+  y: 0.16621484448552692
+  z: 0.1584716796875
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 113127441
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3786156796833412
+  y: 0.16830021923422553
+  z: 0.15796712239583333
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 146484863
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3784462764954849
+  y: 0.1655736904333523
+  z: 0.15830891927083332
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 179842285
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3772667365427922
+  y: 0.17159146335135583
+  z: 0.15683756510416666
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 213199707
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37723108708730513
+  y: 0.17067519629910066
+  z: 0.15691569010416667
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 246557129
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37697779172892804
+  y: 0.17148100971737962
+  z: 0.15684895833333334
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 279914551
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37963128084628295
+  y: 0.16130955411634532
+  z: 0.159833984375
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 313272217
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.3772656555130426
+  y: 0.17168722327640726
+  z: 0.1569677734375
+---
+header:
+  stamp:
+    sec: 1791798144
+    nanosec: 346629639
+  frame_id: camera_color_optical_frame
+point:
+  x: -0.37798509266961766
+  y: 0.1658754346206204
+  z: 0.1584814453125
+---

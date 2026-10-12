@@ -1,0 +1,24 @@
+/perception_node
+  Subscribers:
+    /camera/camera/aligned_depth_to_color/image_raw: sensor_msgs/msg/Image
+    /camera/camera/color/image_raw: sensor_msgs/msg/Image
+  Publishers:
+    /parameter_events: rcl_interfaces/msg/ParameterEvent
+    /perception/debug_image: sensor_msgs/msg/Image
+    /perception/mask: sensor_msgs/msg/Image
+    /rosout: rcl_interfaces/msg/Log
+    /target: geometry_msgs/msg/PointStamped
+  Service Servers:
+    /perception_node/describe_parameters: rcl_interfaces/srv/DescribeParameters
+    /perception_node/get_parameter_types: rcl_interfaces/srv/GetParameterTypes
+    /perception_node/get_parameters: rcl_interfaces/srv/GetParameters
+    /perception_node/get_type_description: type_description_interfaces/srv/GetTypeDescription
+    /perception_node/list_parameters: rcl_interfaces/srv/ListParameters
+    /perception_node/set_parameters: rcl_interfaces/srv/SetParameters
+    /perception_node/set_parameters_atomically: rcl_interfaces/srv/SetParametersAtomically
+  Service Clients:
+
+  Action Servers:
+
+  Action Clients:
+

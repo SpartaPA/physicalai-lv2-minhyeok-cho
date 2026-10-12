@@ -1,0 +1,21 @@
+Type: geometry_msgs/msg/PointStamped
+
+Publisher count: 1
+
+Node name: perception_node
+Node namespace: /
+Topic type: geometry_msgs/msg/PointStamped
+Topic type hash: RIHS01_4c0296af86e01e562e9e0405d138a01537247580076c58ea38d7923ac1045897
+Endpoint type: PUBLISHER
+GID: 01.0f.ff.63.31.cf.3e.5a.00.00.00.00.00.00.13.03
+QoS profile:
+  Reliability: BEST_EFFORT
+  History (Depth): KEEP_LAST (1)
+  Durability: VOLATILE
+  Lifespan: Infinite
+  Deadline: Infinite
+  Liveliness: AUTOMATIC
+  Liveliness lease duration: Infinite
+
+Subscription count: 0
+

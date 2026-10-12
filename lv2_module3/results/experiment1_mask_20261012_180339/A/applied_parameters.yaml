@@ -1,0 +1,28 @@
+/perception_node:
+  ros__parameters:
+    blur_ksize: 5
+    camera_config: /home/pa4/git/Lv2_EYE4_Assignment-sanghwa/lv2_module5/ros2_ws/src/realsense_tracker/config/camera.yaml
+    depth_max_distance_cm: 100.0
+    depth_max_spread_cm: 5.0
+    depth_min_distance_cm: 13.0
+    depth_min_valid_ratio: 0.5
+    depth_unit_m: 0.001
+    enforce_depth_range: false
+    hsv_lower:
+    - 93
+    - 120
+    - 35
+    hsv_upper:
+    - 130
+    - 255
+    - 255
+    image_reliable: true
+    min_area_ratio: 0.002
+    morph_ksize: 5
+    publish_debug_image: true
+    start_type_description_service: true
+    stats_period_sec: 1.0
+    target_reliable: false
+    use_depth: true
+    use_sim_time: false
+

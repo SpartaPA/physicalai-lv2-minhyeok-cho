@@ -1,0 +1,35 @@
+# perception_node ROS 파라미터 — Source of Truth (인지 담당 관리, 통합 담당 검토)
+# 실행 시 tracker.launch.py가 이 파일과 camera.yaml 경로를 자동으로 넘긴다.
+# tools/(hsv_tuning, image_capture, eval_frames)도 이 파일의 값을 그대로 읽는다.
+
+perception_node:
+  ros__parameters:
+    # 카메라 토픽 이름은 같은 폴더의 camera.yaml에서 읽음 (launch가 경로 지정, 직접 실행 시 -p camera_config:=<경로>)
+    camera_config: ""
+
+    # 목표 색 범위 — lv2_module5/tools/hsv_tuning.py에서 's'로 저장하면 아래 세 값이 바뀜 (주석은 유지)
+    hsv_lower: [93, 120, 35]      # [H, S, V] 하한 (OpenCV: H 0~179, S/V 0~255)
+    hsv_upper: [130, 255, 255]    # [H, S, V] 상한
+    min_area_ratio: 0.002         # 화면 넓이 대비 최소 크기 (640x480에서 약 614px)
+    blur_ksize: 5                 # 가우시안 블러 크기 (홀수, 1이면 블러 안 함)
+    morph_ksize: 5                # 잡음 제거(열기/닫기) 크기 (1이면 안 함)
+
+    # 깊이 — 거리 측정·유효성 기록용. /target에는 넣지 않는다 (point.z = 면적비).
+    use_depth: true               # true면 aligned_depth_topic도 구독해 거리(dist_cm)·유효 측정 비율을 로그에 남김
+    depth_unit_m: 0.001           # 16UC1 깊이 값 1이 몇 m인지 (RealSense 기본 1mm)
+    depth_min_valid_ratio: 0.5    # 목표 영역에서 깊이가 측정된 비율이 이보다 낮으면 거리를 비움
+    depth_max_spread_cm: 5.0      # 목표 영역 깊이 값의 흩어짐(p25~p75)이 이보다 크면 거리를 비움
+    # 선택 기능: 거리 gate. 기본 false — Color 검출 결과를 깊이 때문에 미검출로 바꾸지 않음.
+    # true로 바꾸면 거리가 아래 범위 밖이거나 잴 수 없을 때 x=y=z=0(미검출)을 발행한다. 바꾼 경우 이유를 report에 기록.
+    enforce_depth_range: false
+    depth_min_distance_cm: 13.0   # enforce_depth_range: true일 때만 사용 (반드시 소수점 표기)
+    depth_max_distance_cm: 100.0  # enforce_depth_range: true일 때만 사용 (반드시 소수점 표기)
+
+    publish_debug_image: false    # true면 /perception/debug_image 발행 (검출 결과를 그린 확인용 영상, 평가 도구에 필요)
+    stats_period_sec: 1.0         # 이 간격(초)마다 처리 FPS·처리 시간을 로그로 남김 (0이면 끔, /target 발행 주기와 무관)
+
+    # QoS (모두 depth 1)
+    target_reliable: false        # /target 발행: false = best effort (발제문 규약) → 구독 측(제어)도 best effort로 받아야 연결됨
+    image_reliable: true          # 영상 구독: true = reliable
+                                  # 실측(2026-10-06, wrapper 640x480 30fps): best effort 구독 → 컬러 1.2 fps·정렬 깊이 0 fps,
+                                  # reliable 구독 → 둘 다 29.4 fps (wrapper 발행 QoS: RELIABLE, KEEP_LAST 1)
