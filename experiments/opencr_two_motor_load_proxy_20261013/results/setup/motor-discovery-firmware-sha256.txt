@@ -1,0 +1,1 @@
+9888d9b33f2a33bbc1f08e8c19873e60008b7bff19b7b2b6a449a617ce7cd8c6  /home/pa44/git/physicalai-lv2-minhyeok-cho/experiments/opencr_two_motor_load_proxy_20261013/firmware/build/motor_discovery/motor_discovery.ino.bin

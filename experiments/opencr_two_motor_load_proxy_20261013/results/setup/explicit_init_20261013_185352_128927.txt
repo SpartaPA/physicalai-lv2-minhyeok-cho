@@ -1,0 +1,4 @@
+2026-10-13T18:53:53.135289 Log: /home/pa44/git/physicalai-lv2-minhyeok-cho/experiments/opencr_two_motor_load_proxy_20261013/results/setup/explicit_init_20261013_185352_128927.txt
+2026-10-13T18:53:53.135625 HOST: HELLO
+2026-10-13T18:53:53.137506 ERR,UNKNOWN_COMMAND
+2026-10-13T18:53:53.138932 ERR,UNKNOWN_COMMAND

@@ -1,0 +1,15 @@
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:277:     * If the read fails, 0 is returned. Whether or not this is an actual value can be confirmed with @getLastLibErrCode().
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:309:     * If the read fails, 0 is returned. Whether or not this is an actual value can be confirmed with @getLastLibErrCode().
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:341:     * If the read fails, 0 is returned. Whether or not this is an actual value can be confirmed with @getLastLibErrCode().
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:373:     * If the read fails, 0 is returned. Whether or not this is an actual value can be confirmed with @getLastLibErrCode().
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:395:     * Serial.print(dxl.readControlTableItem(PRESENT_VOLTAGE, 1));
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:404:     * If the read fails, 0 is returned. Whether or not this is an actual value can be confirmed with @getLastLibErrCode().
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:406:    int32_t readControlTableItem(uint8_t item_idx, 
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:414:     * dxl.writeControlTableItem(TORQUE_ENABLE, 1, 1);
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:425:    bool writeControlTableItem(uint8_t item_idx, 
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:466:    int32_t readControlTableItem(uint16_t model_num,
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/Dynamixel2Arduino.h:469:    bool writeControlTableItem(uint16_t model_num, 
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/utility/master.h:159:    uint8_t getLastStatusPacketError() const;
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/utility/master.h:160:    DXLLibErrorCode_t getLastLibErrCode() const;
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/utility/slave.h:92:    uint8_t getLastStatusPacketError() const;
+/home/pa44/Arduino/libraries/Dynamixel2Arduino/src/utility/slave.h:95:    DXLLibErrorCode_t getLastLibErrCode() const;

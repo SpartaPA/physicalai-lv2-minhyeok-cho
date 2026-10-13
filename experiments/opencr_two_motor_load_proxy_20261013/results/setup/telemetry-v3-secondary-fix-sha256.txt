@@ -1,0 +1,1 @@
+e5549922cc62478c9e34d6aac1d26a54a89ca776ef5b299ddd36b3e130a35130  /home/pa44/git/physicalai-lv2-minhyeok-cho/experiments/opencr_two_motor_load_proxy_20261013/firmware/build/two_motor_telemetry/two_motor_telemetry.ino.bin

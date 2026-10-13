@@ -1,0 +1,18 @@
+opencr_ld ver 1.0.4
+opencr_ld_main 
+>>
+file name : /home/pa44/git/physicalai-lv2-minhyeok-cho/experiments/opencr_two_motor_load_proxy_20261013/firmware/build/two_motor_telemetry/two_motor_telemetry.ino.bin 
+file size : 94 KB
+Open port OK
+Clear Buffer Start
+Clear Buffer End
+Board Name : OpenCR R1.0
+Board Ver  : 0x17020800
+Board Rev  : 0x00000000
+>>
+flash_erase : 0 : 1.050000 sec
+flash_write : 0 : 1.141000 sec 
+CRC OK 926340 926340 0.003000 sec
+[OK] Download 
+jump_to_fw 
+jump finished
