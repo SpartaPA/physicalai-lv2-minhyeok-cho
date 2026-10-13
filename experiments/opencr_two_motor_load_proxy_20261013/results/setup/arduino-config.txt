@@ -1,0 +1,5 @@
+board_manager:
+    additional_urls: []
+directories:
+    user: /home/pa44/Arduino
+
